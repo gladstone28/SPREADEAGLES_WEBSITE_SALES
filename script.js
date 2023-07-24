@@ -2,20 +2,20 @@ document.addEventListener("DOMContentLoaded", function() {
     // Sample furniture data (You can replace this with your actual data from a database)
     const furnitureData = [{
             name: "Night Stand",
-            price: "J$60,000.00",
+            price: "J$35,000.00",
             description: "Our skillfully designed and crafted night stand is the epitome of sophistication and style.Its sleek, contemporary design and space saving innovation offers support to restful night's sleep.",
             image: "path/to/dining-table-image.jpg",
             image: "side-table-spread-eagles.jpeg",
         },
         {
             name: "Wardrobe",
-            price: "J$250,000.00",
+            price: "J$150,000.00",
             description: "Where your house lack space, we can custom make pieces of furniture like this Wardrobe to satisfy your requirements, in fact we can make antique furnitue to fit modern taste on demand.",
             image: "ward-robe.jpeg",
         },
         {
             name: "Dresser",
-            price: "J$250,000.00",
+            price: "J$95,000.00",
             description: "Our carefully crafted Dresser is a luxurious addition to any living space. Its sleek, contemporary design and style offers aesthetic beauty to any space it occupies.",
             image: "dresser-spread-eagles.jpeg",
         },
