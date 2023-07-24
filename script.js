@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         {
             name: "Dining Room Table",
-            price: "J$299,000.00",
+            price: "J$199,000.00",
             description: "Meticulously crafted from the finest, hand-selected materials, this stunning dining room table promises to elevate your dining experience to new heights. With its sleek, polished surface, the table becomes an enchanting focal point, captivating both guests and family members alike.",
             image: "table2.jpg",
         },
